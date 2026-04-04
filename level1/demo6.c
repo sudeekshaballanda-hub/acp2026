@@ -52,3 +52,10 @@ int main()
     delete_array(&arr);
     return 0;
 }
+/*
+------------------------------NOTE------------------------------
+arr → stores address
+*arr → value at that address
+**arr → value of the value (two levels)
+--------------------------------------------------------------
+*/
